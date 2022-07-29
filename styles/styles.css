@@ -72,3 +72,11 @@ h4 {
   color: #e8ba13;
   pointer-events: none;
 }
+
+#developerSignature {
+  display: block;
+  font-size: small;
+  margin-top: 10px;
+  text-align: right;
+  color: #866c0f;
+}
